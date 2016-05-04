@@ -1,0 +1,32 @@
+c:\users\mina\documents\visual studio 2010\Projects\Arduino_Control\Arduino_Control\bin\Debug\Arduino_Control.exe
+c:\users\mina\documents\visual studio 2010\Projects\Arduino_Control\Arduino_Control\bin\Debug\Arduino_Control.pdb
+c:\users\mina\documents\visual studio 2010\Projects\Arduino_Control\Arduino_Control\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mina\documents\visual studio 2010\Projects\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.Form1.resources
+c:\users\mina\documents\visual studio 2010\Projects\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.Properties.Resources.resources
+c:\users\mina\documents\visual studio 2010\Projects\Arduino_Control\Arduino_Control\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mina\documents\visual studio 2010\Projects\Arduino_Control\Arduino_Control\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mina\documents\visual studio 2010\Projects\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.exe
+c:\users\mina\documents\visual studio 2010\Projects\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.pdb
+c:\users\mina\documents\visual studio 2010\Projects\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.Operation.resources
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.Form1.resources
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.Operation.resources
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.Properties.Resources.resources
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\bin\Debug\Arduino_Control.exe
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\bin\Debug\Arduino_Control.pdb
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.exe
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.pdb
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.Device.resources
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\bin\Debug\Arduino_Control.exe.config
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Master Files\SH_Project\Arduino_Control\Arduino_Control\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Master Files\Codes _2014\C#_Main App\Arduino_Control\Arduino_Control\bin\Debug\Arduino_Control.exe.config
+D:\Master Files\Codes _2014\C#_Main App\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.exe
+D:\Master Files\Codes _2014\C#_Main App\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.pdb
+D:\Master Files\Codes _2014\C#_Main App\Arduino_Control\Arduino_Control\bin\Debug\Arduino_Control.exe
+D:\Master Files\Codes _2014\C#_Main App\Arduino_Control\Arduino_Control\bin\Debug\Arduino_Control.pdb
+D:\Master Files\Codes _2014\C#_Main App\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.Device.resources
+D:\Master Files\Codes _2014\C#_Main App\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.Form1.resources
+D:\Master Files\Codes _2014\C#_Main App\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.Operation.resources
+D:\Master Files\Codes _2014\C#_Main App\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.Properties.Resources.resources
+D:\Master Files\Codes _2014\C#_Main App\Arduino_Control\Arduino_Control\obj\x86\Debug\Arduino_Control.csproj.GenerateResource.Cache
